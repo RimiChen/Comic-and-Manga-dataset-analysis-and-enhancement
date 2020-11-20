@@ -1,0 +1,278 @@
+[
+    {
+        "id": "000292a8",
+        "charaName": "Hara Nojin"
+    },
+    {
+        "id": "000292ac",
+        "charaName": "Peach"
+    },
+    {
+        "id": "000292dc",
+        "charaName": "Haruno Susumu's mother"
+    },
+    {
+        "id": "000292f1",
+        "charaName": "Other"
+    },
+    {
+        "id": "000292fc",
+        "charaName": "Tomoki"
+    },
+    {
+        "id": "00029336",
+        "charaName": "Female A"
+    },
+    {
+        "id": "0002934f",
+        "charaName": "Coachman A"
+    },
+    {
+        "id": "00029373",
+        "charaName": "Male A"
+    },
+    {
+        "id": "0002939c",
+        "charaName": "Horse owner A"
+    },
+    {
+        "id": "000293a2",
+        "charaName": "Male C"
+    },
+    {
+        "id": "000293b6",
+        "charaName": "Male B"
+    },
+    {
+        "id": "000293c3",
+        "charaName": "Male D"
+    },
+    {
+        "id": "000293d4",
+        "charaName": "Horse Owner B"
+    },
+    {
+        "id": "000293f6",
+        "charaName": "Male E"
+    },
+    {
+        "id": "0002943c",
+        "charaName": "Male F"
+    },
+    {
+        "id": "00029444",
+        "charaName": "Entrance"
+    },
+    {
+        "id": "0002952b",
+        "charaName": "Editor B of Meikai Shimbun"
+    },
+    {
+        "id": "00029532",
+        "charaName": "Grass"
+    },
+    {
+        "id": "0002953e",
+        "charaName": "Editor-in-chief"
+    },
+    {
+        "id": "0002954b",
+        "charaName": "Editor A of Meikai Shimbun"
+    },
+    {
+        "id": "000296a4",
+        "charaName": "Hachirota"
+    },
+    {
+        "id": "0002983f",
+        "charaName": "doctor"
+    },
+    {
+        "id": "000298ea",
+        "charaName": "Male G"
+    },
+    {
+        "id": "00029904",
+        "charaName": "Ryuji"
+    },
+    {
+        "id": "0002991a",
+        "charaName": "Beef Nabeya Owner"
+    },
+    {
+        "id": "000299d3",
+        "charaName": "Authority"
+    },
+    {
+        "id": "000299df",
+        "charaName": "Tenement boy"
+    },
+    {
+        "id": "000299fb",
+        "charaName": "Girl in a row house"
+    },
+    {
+        "id": "00029a1c",
+        "charaName": "Old man"
+    },
+    {
+        "id": "00029b7b",
+        "charaName": "The rear house of an Esashiya shop"
+    },
+    {
+        "id": "00029bd4",
+        "charaName": "Coachman B"
+    },
+    {
+        "id": "00029c1a",
+        "charaName": "Coachman C"
+    },
+    {
+        "id": "00029c6d",
+        "charaName": "Coachman D"
+    },
+    {
+        "id": "00029c70",
+        "charaName": "Red Eggplant Farmhouse"
+    },
+    {
+        "id": "00029cbd",
+        "charaName": "Kagome Oyster C"
+    },
+    {
+        "id": "00029cda",
+        "charaName": "Kagoro B"
+    },
+    {
+        "id": "00029d07",
+        "charaName": "Kagome Oyster A"
+    },
+    {
+        "id": "00029d70",
+        "charaName": "Male H"
+    },
+    {
+        "id": "00029e60",
+        "charaName": "Clean"
+    },
+    {
+        "id": "00029ea8",
+        "charaName": "Koshiro"
+    },
+    {
+        "id": "00029fb4",
+        "charaName": "Man I"
+    },
+    {
+        "id": "0002a06e",
+        "charaName": "Koshiro's caretaker"
+    },
+    {
+        "id": "0002a130",
+        "charaName": "Haruka Akabane"
+    },
+    {
+        "id": "0002a135",
+        "charaName": "The owner of Asadaya"
+    },
+    {
+        "id": "0002a137",
+        "charaName": "Asadaya receptionist"
+    },
+    {
+        "id": "0002a32e",
+        "charaName": "Tradesman B"
+    },
+    {
+        "id": "0002a332",
+        "charaName": "Tradesman C"
+    },
+    {
+        "id": "0002a358",
+        "charaName": "Tradesman A"
+    },
+    {
+        "id": "0002a565",
+        "charaName": "Coachman E"
+    },
+    {
+        "id": "0002a590",
+        "charaName": "Alien B"
+    },
+    {
+        "id": "0002a59d",
+        "charaName": "Alien A"
+    },
+    {
+        "id": "0002a5cf",
+        "charaName": "Romantei clerk"
+    },
+    {
+        "id": "0002a618",
+        "charaName": "Romantei master"
+    },
+    {
+        "id": "0002a6f0",
+        "charaName": "Land Steam Passenger A"
+    },
+    {
+        "id": "0002a6f4",
+        "charaName": "Land Steam Passenger D"
+    },
+    {
+        "id": "0002a700",
+        "charaName": "Male J"
+    },
+    {
+        "id": "0002a711",
+        "charaName": "Land Steam Customer C"
+    },
+    {
+        "id": "0002a717",
+        "charaName": "Land Steam Customer B"
+    },
+    {
+        "id": "0002a764",
+        "charaName": "Land Steam Customer E"
+    },
+    {
+        "id": "0002a770",
+        "charaName": "Drunk Farmer A"
+    },
+    {
+        "id": "0002a77b",
+        "charaName": "Male L"
+    },
+    {
+        "id": "0002a786",
+        "charaName": "Male K"
+    },
+    {
+        "id": "0002a876",
+        "charaName": "Kagome Oyster D"
+    },
+    {
+        "id": "0002a87f",
+        "charaName": "Kagoro E"
+    },
+    {
+        "id": "0002aabc",
+        "charaName": "Male M"
+    },
+    {
+        "id": "0002ab26",
+        "charaName": "Male N"
+    },
+    {
+        "id": "0002ad6d",
+        "charaName": "Samurai A"
+    },
+    {
+        "id": "0002addd",
+        "charaName": "Male O"
+    },
+    {
+        "id": "0002adeb",
+        "charaName": "Fire Fighting A"
+    }
+]

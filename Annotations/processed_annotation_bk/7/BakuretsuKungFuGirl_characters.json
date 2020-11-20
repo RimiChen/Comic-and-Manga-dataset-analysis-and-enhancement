@@ -1,0 +1,326 @@
+[
+    {
+        "id": "00008b0a",
+        "charaName": "Celery"
+    },
+    {
+        "id": "00008b1a",
+        "charaName": "Seri's father"
+    },
+    {
+        "id": "00008b25",
+        "charaName": "Tetsuta Sakuragi"
+    },
+    {
+        "id": "00008b2b",
+        "charaName": "Seri's mother"
+    },
+    {
+        "id": "00008b56",
+        "charaName": "Tetsuza Sakuragi's grandfather"
+    },
+    {
+        "id": "00008b58",
+        "charaName": "Margarita"
+    },
+    {
+        "id": "00008e8c",
+        "charaName": "Thunder"
+    },
+    {
+        "id": "00008e94",
+        "charaName": "Police officer"
+    },
+    {
+        "id": "00008eab",
+        "charaName": "Female A"
+    },
+    {
+        "id": "00008f62",
+        "charaName": "Female B"
+    },
+    {
+        "id": "00009073",
+        "charaName": "Other"
+    },
+    {
+        "id": "000090d6",
+        "charaName": "Couple a woman"
+    },
+    {
+        "id": "00009108",
+        "charaName": "Couple b men"
+    },
+    {
+        "id": "00009112",
+        "charaName": "Couple b woman"
+    },
+    {
+        "id": "00009132",
+        "charaName": "Continuous Ripper"
+    },
+    {
+        "id": "0000927f",
+        "charaName": "Ayame's sister"
+    },
+    {
+        "id": "00009283",
+        "charaName": "Iris"
+    },
+    {
+        "id": "000092c4",
+        "charaName": "wing"
+    },
+    {
+        "id": "000092d6",
+        "charaName": "Bear"
+    },
+    {
+        "id": "0000934c",
+        "charaName": "Male A"
+    },
+    {
+        "id": "0000939e",
+        "charaName": "Pension owner"
+    },
+    {
+        "id": "000093dd",
+        "charaName": "Yusuke"
+    },
+    {
+        "id": "000093df",
+        "charaName": "Female C"
+    },
+    {
+        "id": "000093eb",
+        "charaName": "Maria"
+    },
+    {
+        "id": "00009453",
+        "charaName": "Female E"
+    },
+    {
+        "id": "0000945a",
+        "charaName": "Female D"
+    },
+    {
+        "id": "00009466",
+        "charaName": "Tamegoro"
+    },
+    {
+        "id": "00009695",
+        "charaName": "Miracle club female member A"
+    },
+    {
+        "id": "00009699",
+        "charaName": "Erica"
+    },
+    {
+        "id": "0000969f",
+        "charaName": "Uehara Yuri"
+    },
+    {
+        "id": "000096a8",
+        "charaName": "Kamajiro"
+    },
+    {
+        "id": "000096bd",
+        "charaName": "Miracle club female member B"
+    },
+    {
+        "id": "00009759",
+        "charaName": "Uehara Yuri's mother"
+    },
+    {
+        "id": "000097c2",
+        "charaName": "God"
+    },
+    {
+        "id": "0000985b",
+        "charaName": "Male B"
+    },
+    {
+        "id": "0000985d",
+        "charaName": "Female H"
+    },
+    {
+        "id": "00009860",
+        "charaName": "Male C"
+    },
+    {
+        "id": "0000986a",
+        "charaName": "Female F"
+    },
+    {
+        "id": "0000986e",
+        "charaName": "Female G"
+    },
+    {
+        "id": "000098b0",
+        "charaName": "Male E"
+    },
+    {
+        "id": "000098b3",
+        "charaName": "Woman I"
+    },
+    {
+        "id": "000098bb",
+        "charaName": "juggler"
+    },
+    {
+        "id": "000098c4",
+        "charaName": "Male D"
+    },
+    {
+        "id": "000098fe",
+        "charaName": "Female K"
+    },
+    {
+        "id": "00009906",
+        "charaName": "Female J"
+    },
+    {
+        "id": "00009950",
+        "charaName": "Tournament staff"
+    },
+    {
+        "id": "00009987",
+        "charaName": "Tour host"
+    },
+    {
+        "id": "000099a6",
+        "charaName": "Conference examiner male A"
+    },
+    {
+        "id": "000099a8",
+        "charaName": "Tournament Audience Woman B"
+    },
+    {
+        "id": "000099b4",
+        "charaName": "Tournament Audience D"
+    },
+    {
+        "id": "000099b9",
+        "charaName": "Competition spectator woman A"
+    },
+    {
+        "id": "000099bd",
+        "charaName": "Tournament judge"
+    },
+    {
+        "id": "000099d0",
+        "charaName": "Tournament Audience C"
+    },
+    {
+        "id": "00009a08",
+        "charaName": "Assembly examiner male B"
+    },
+    {
+        "id": "00009a0e",
+        "charaName": "Tournament judge woman"
+    },
+    {
+        "id": "00009a45",
+        "charaName": "Miracle club female member C"
+    },
+    {
+        "id": "00009a96",
+        "charaName": "Hanasaki Sparrow"
+    },
+    {
+        "id": "00009ace",
+        "charaName": "Southern Subaru"
+    },
+    {
+        "id": "00009ae4",
+        "charaName": "Hanasaki Sparrow's Friend Girl A"
+    },
+    {
+        "id": "00009aea",
+        "charaName": "Hanasaki Sparrow's Friend Girl B"
+    },
+    {
+        "id": "00009b1c",
+        "charaName": "Hanasaki Sparrow Guardian Spirit"
+    },
+    {
+        "id": "00009b78",
+        "charaName": "Male Student A"
+    },
+    {
+        "id": "00009b7a",
+        "charaName": "Male Student B"
+    },
+    {
+        "id": "00009ba7",
+        "charaName": "Male Student C"
+    },
+    {
+        "id": "00009baf",
+        "charaName": "Male Student D"
+    },
+    {
+        "id": "00009c9b",
+        "charaName": "Guardian Spirit of Police Officer B"
+    },
+    {
+        "id": "00009cc1",
+        "charaName": "Police Officer B"
+    },
+    {
+        "id": "00009d00",
+        "charaName": "Ghost A"
+    },
+    {
+        "id": "00009d23",
+        "charaName": "Ghost D"
+    },
+    {
+        "id": "00009d30",
+        "charaName": "Ghost C"
+    },
+    {
+        "id": "00009d40",
+        "charaName": "Ghost B"
+    },
+    {
+        "id": "00009e08",
+        "charaName": "Female L"
+    },
+    {
+        "id": "00009e28",
+        "charaName": "Miki Ueda"
+    },
+    {
+        "id": "00009e30",
+        "charaName": "Editor in charge of Miki Ueda"
+    },
+    {
+        "id": "00009e57",
+        "charaName": "Rila = McCraiger = Kuraki"
+    },
+    {
+        "id": "00009e59",
+        "charaName": "Shintaro Asami"
+    },
+    {
+        "id": "00009e5b",
+        "charaName": "Shallow spot"
+    },
+    {
+        "id": "00009ed6",
+        "charaName": "Akira"
+    },
+    {
+        "id": "0000a0ab",
+        "charaName": "Mansion of the mansion"
+    },
+    {
+        "id": "0000a0b2",
+        "charaName": "Housekeeper"
+    },
+    {
+        "id": "0000a11f",
+        "charaName": "Monster"
+    }
+]

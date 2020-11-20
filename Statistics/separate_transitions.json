@@ -1,0 +1,142 @@
+{
+    "0": {
+        "Total": 112,
+        "Aspect": 23,
+        "Action": 7,
+        "Subject": 50,
+        "Moment": 5,
+        "Scene": 7,
+        "Non": 19,
+        "Other": 1
+    },
+    "105": {
+        "Total": 339,
+        "Aspect": 20,
+        "Action": 184,
+        "Subject": 73,
+        "Moment": 15,
+        "Scene": 46,
+        "Non": 1,
+        "Other": 0
+    },
+    "10": {
+        "Total": 0,
+        "Aspect": 0,
+        "Action": 0,
+        "Subject": 0,
+        "Moment": 0,
+        "Scene": 0,
+        "Non": 0,
+        "Other": 0
+    },
+    "1": {
+        "Total": 92,
+        "Aspect": 20,
+        "Action": 3,
+        "Subject": 53,
+        "Moment": 8,
+        "Scene": 2,
+        "Non": 6,
+        "Other": 0
+    },
+    "2": {
+        "Total": 82,
+        "Aspect": 12,
+        "Action": 16,
+        "Subject": 28,
+        "Moment": 2,
+        "Scene": 13,
+        "Non": 11,
+        "Other": 0
+    },
+    "3": {
+        "Total": 72,
+        "Aspect": 10,
+        "Action": 4,
+        "Subject": 27,
+        "Moment": 9,
+        "Scene": 3,
+        "Non": 17,
+        "Other": 2
+    },
+    "4": {
+        "Total": 64,
+        "Aspect": 8,
+        "Action": 8,
+        "Subject": 28,
+        "Moment": 4,
+        "Scene": 15,
+        "Non": 1,
+        "Other": 0
+    },
+    "5": {
+        "Total": 60,
+        "Aspect": 7,
+        "Action": 14,
+        "Subject": 31,
+        "Moment": 2,
+        "Scene": 4,
+        "Non": 2,
+        "Other": 0
+    },
+    "65": {
+        "Total": 717,
+        "Aspect": 48,
+        "Action": 305,
+        "Subject": 51,
+        "Moment": 155,
+        "Scene": 76,
+        "Non": 82,
+        "Other": 0
+    },
+    "6": {
+        "Total": 41,
+        "Aspect": 4,
+        "Action": 7,
+        "Subject": 23,
+        "Moment": 4,
+        "Scene": 2,
+        "Non": 1,
+        "Other": 0
+    },
+    "7": {
+        "Total": 0,
+        "Aspect": 0,
+        "Action": 0,
+        "Subject": 0,
+        "Moment": 0,
+        "Scene": 0,
+        "Non": 0,
+        "Other": 0
+    },
+    "8": {
+        "Total": 8,
+        "Aspect": 0,
+        "Action": 1,
+        "Subject": 4,
+        "Moment": 0,
+        "Scene": 3,
+        "Non": 0,
+        "Other": 0
+    },
+    "92": {
+        "Total": 641,
+        "Aspect": 33,
+        "Action": 192,
+        "Subject": 87,
+        "Moment": 78,
+        "Scene": 55,
+        "Non": 120,
+        "Other": 76
+    },
+    "9": {
+        "Total": 0,
+        "Aspect": 0,
+        "Action": 0,
+        "Subject": 0,
+        "Moment": 0,
+        "Scene": 0,
+        "Non": 0,
+        "Other": 0
+    }
+}

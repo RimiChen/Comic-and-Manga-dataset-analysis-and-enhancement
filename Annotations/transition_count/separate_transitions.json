@@ -1,0 +1,72 @@
+{
+    "0": {
+        "Total": 112,
+        "Aspect": 23,
+        "Action": 7,
+        "Subject": 50,
+        "Moment": 5,
+        "Scene": 7,
+        "Non": 19,
+        "Other": 1
+    },
+    "1": {
+        "Total": 92,
+        "Aspect": 20,
+        "Action": 3,
+        "Subject": 53,
+        "Moment": 8,
+        "Scene": 2,
+        "Non": 6,
+        "Other": 0
+    },
+    "2": {
+        "Total": 82,
+        "Aspect": 12,
+        "Action": 16,
+        "Subject": 28,
+        "Moment": 2,
+        "Scene": 13,
+        "Non": 11,
+        "Other": 0
+    },
+    "3": {
+        "Total": 72,
+        "Aspect": 10,
+        "Action": 4,
+        "Subject": 27,
+        "Moment": 9,
+        "Scene": 3,
+        "Non": 17,
+        "Other": 2
+    },
+    "4": {
+        "Total": 64,
+        "Aspect": 8,
+        "Action": 8,
+        "Subject": 28,
+        "Moment": 4,
+        "Scene": 15,
+        "Non": 1,
+        "Other": 0
+    },
+    "5": {
+        "Total": 60,
+        "Aspect": 7,
+        "Action": 14,
+        "Subject": 31,
+        "Moment": 2,
+        "Scene": 4,
+        "Non": 2,
+        "Other": 0
+    },
+    "6": {
+        "Total": 41,
+        "Aspect": 4,
+        "Action": 7,
+        "Subject": 23,
+        "Moment": 4,
+        "Scene": 2,
+        "Non": 1,
+        "Other": 0
+    }
+}

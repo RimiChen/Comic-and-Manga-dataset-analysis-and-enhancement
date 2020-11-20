@@ -1,0 +1,61 @@
+python create_hdf5_MANGA.py  
+python create_hdf5_new.py  
+
+python preprocess/text_cloze_minibatching.py
+python preprocess/visual_cloze_minibatching.py
+
+
+python preprocess/text_cloze_minibatching_new.py
+python preprocess/visual_cloze_minibatching_new.py
+
+python preprocess/character_coherence_minibatching.py
+
+python get_image_vgg_features.py
+
+=======
+text cloze
+=======
+
+set THEANO_FLAGS="device=cuda0"  & python models/text_cloze_manga.py -model image_only -difficulty easy
+set THEANO_FLAGS="device=cuda0"  & python models/text_cloze_manga.py -model image_only -difficulty hard
+
+set THEANO_FLAGS="device=cuda0"  & python models/text_cloze_manga.py -model text_only -difficulty easy
+set THEANO_FLAGS="device=cuda0"  & python models/text_cloze_manga.py -model text_only -difficulty hard
+set THEANO_FLAGS="device=cuda0"  & python models/text_cloze_manga.py -model image_text -difficulty easy
+set THEANO_FLAGS="device=cuda0"  & python models/text_cloze_manga.py -model image_text -difficulty hard
+
+
+set THEANO_FLAGS="device=cuda0"  & python models/text_cloze_manga_new.py -model text_only -difficulty easy
+set THEANO_FLAGS="device=cuda0"  & python models/text_cloze_manga_new.py -model text_only -difficulty hard
+set THEANO_FLAGS="device=cuda0"  & python models/text_cloze_manga_new.py -model image_text -difficulty easy
+set THEANO_FLAGS="device=cuda0"  & python models/text_cloze_manga_new.py -model image_text -difficulty hard
+
+
+=======
+image cloze
+=======
+
+
+set THEANO_FLAGS="device=cuda0"  & python models/visual_cloze_manga.py -model text_only -difficulty easy
+set THEANO_FLAGS="device=cuda0"  & python models/visual_cloze_manga.py -model text_only -difficulty hard
+set THEANO_FLAGS="device=cuda0"  & python models/visual_cloze_manga.py -model image_only -difficulty easy
+set THEANO_FLAGS="device=cuda0"  & python models/visual_cloze_manga.py -model image_only -difficulty hard
+set THEANO_FLAGS="device=cuda0"  & python models/visual_cloze_manga.py -model image_text -difficulty easy
+set THEANO_FLAGS="device=cuda0"  & python models/visual_cloze_manga.py -model image_text -difficulty hard
+
+
+set THEANO_FLAGS="device=cuda0"  & python models/visual_cloze_manga_new.py -model image_only -difficulty easy
+set THEANO_FLAGS="device=cuda0"  & python models/visual_cloze_manga_new.py -model image_only -difficulty hard
+set THEANO_FLAGS="device=cuda0"  & python models/visual_cloze_manga_new.py -model image_text -difficulty easy
+set THEANO_FLAGS="device=cuda0"  & python models/visual_cloze_manga_new.py -model image_text -difficulty hard
+
+=======
+character coherence
+=======
+
+set THEANO_FLAGS="device=cuda0"  & python models/character_coherence_manga.py -model text_only -difficulty easy
+set THEANO_FLAGS="device=cuda0"  & python models/character_coherence_manga.py -model text_only -difficulty hard
+set THEANO_FLAGS="device=cuda0"  & python models/character_coherence_manga.py -model image_only -difficulty easy
+set THEANO_FLAGS="device=cuda0"  & python models/character_coherence_manga.py -model image_only -difficulty hard
+set THEANO_FLAGS="device=cuda0"  & python models/character_coherence_manga.py -model image_text -difficulty easy
+set THEANO_FLAGS="device=cuda0"  & python models/character_coherence_manga.py -model image_text -difficulty hard

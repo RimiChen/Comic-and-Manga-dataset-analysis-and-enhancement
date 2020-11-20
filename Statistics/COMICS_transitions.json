@@ -1,0 +1,21 @@
+{
+    "1": {
+        "SUBJECT": 16,
+        "ACTION": 25,
+        "SCENE": 26,
+        "NON": 14,
+        "ASPECT": 4,
+        "CONTINUE": 10,
+        "MOMENT": 4,
+        "SBUJECT": 1
+    },
+    "2": {
+        "ASPECT": 12,
+        "MOMENT": 4,
+        "SCENE": 15,
+        "NON": 15,
+        "SUBJECT": 26,
+        "ACTION": 22,
+        "CONTINUE": 6
+    }
+}

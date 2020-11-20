@@ -1,0 +1,242 @@
+[
+    {
+        "id": "0003c19f",
+        "charaName": "Kimura Shinichi"
+    },
+    {
+        "id": "0003c1a7",
+        "charaName": "Kyoka Hanaki"
+    },
+    {
+        "id": "0003c1bc",
+        "charaName": "Other"
+    },
+    {
+        "id": "0003c224",
+        "charaName": "Girl A"
+    },
+    {
+        "id": "0003c226",
+        "charaName": "between"
+    },
+    {
+        "id": "0003c231",
+        "charaName": "Female guest A"
+    },
+    {
+        "id": "0003c233",
+        "charaName": "Boy A"
+    },
+    {
+        "id": "0003c242",
+        "charaName": "Male guest A"
+    },
+    {
+        "id": "0003c2dd",
+        "charaName": "Passenger (female)"
+    },
+    {
+        "id": "0003c2ec",
+        "charaName": "Passenger (male)"
+    },
+    {
+        "id": "0003c313",
+        "charaName": "Station employee B"
+    },
+    {
+        "id": "0003c321",
+        "charaName": "Station employee A"
+    },
+    {
+        "id": "0003c3c8",
+        "charaName": "Yoshimoto"
+    },
+    {
+        "id": "0003c3f9",
+        "charaName": "Male employee A"
+    },
+    {
+        "id": "0003c40b",
+        "charaName": "Male employee B"
+    },
+    {
+        "id": "0003c61e",
+        "charaName": "Nurse A"
+    },
+    {
+        "id": "0003c641",
+        "charaName": "Participant A"
+    },
+    {
+        "id": "0003c673",
+        "charaName": "Kudo"
+    },
+    {
+        "id": "0003c675",
+        "charaName": "Girl student A"
+    },
+    {
+        "id": "0003c67b",
+        "charaName": "Taeko Tsukada"
+    },
+    {
+        "id": "0003c689",
+        "charaName": "Girl student B"
+    },
+    {
+        "id": "0003c6a6",
+        "charaName": "Narumi Sakaguchi"
+    },
+    {
+        "id": "0003c714",
+        "charaName": "Tsukada (younger brother)"
+    },
+    {
+        "id": "0003c719",
+        "charaName": "Tsukada (mother)"
+    },
+    {
+        "id": "0003c972",
+        "charaName": "Natsumi Shinjo"
+    },
+    {
+        "id": "0003c974",
+        "charaName": "Yoshihiro Saito"
+    },
+    {
+        "id": "0003c978",
+        "charaName": "Participant (husband)"
+    },
+    {
+        "id": "0003c98a",
+        "charaName": "Participant (wife)"
+    },
+    {
+        "id": "0003c9d8",
+        "charaName": "Male employee C"
+    },
+    {
+        "id": "0003c9f0",
+        "charaName": "Female employee A"
+    },
+    {
+        "id": "0003ca0f",
+        "charaName": "Natsumi's ex-boyfriend"
+    },
+    {
+        "id": "0003ca53",
+        "charaName": "Male employee D"
+    },
+    {
+        "id": "0003cad2",
+        "charaName": "College Girl A"
+    },
+    {
+        "id": "0003cadd",
+        "charaName": "Female College Student C"
+    },
+    {
+        "id": "0003caf2",
+        "charaName": "College Girl B"
+    },
+    {
+        "id": "0003cb41",
+        "charaName": "College Girl D"
+    },
+    {
+        "id": "0003cd4a",
+        "charaName": "Chizuru Arimori"
+    },
+    {
+        "id": "0003cd4f",
+        "charaName": "Yuichi Sawatari"
+    },
+    {
+        "id": "0003cd5c",
+        "charaName": "Kyoko Kogure"
+    },
+    {
+        "id": "0003cd60",
+        "charaName": "Female guest B"
+    },
+    {
+        "id": "0003cd64",
+        "charaName": "Male guest B"
+    },
+    {
+        "id": "0003cda4",
+        "charaName": "Subordinate A"
+    },
+    {
+        "id": "0003ce6d",
+        "charaName": "Sato Satoru"
+    },
+    {
+        "id": "0003ce72",
+        "charaName": "Patient A"
+    },
+    {
+        "id": "0003ce80",
+        "charaName": "Nurse B"
+    },
+    {
+        "id": "0003ce9a",
+        "charaName": "Patient B"
+    },
+    {
+        "id": "0003cebd",
+        "charaName": "Boy Student A"
+    },
+    {
+        "id": "0003cec1",
+        "charaName": "Boy Student B"
+    },
+    {
+        "id": "0003ced2",
+        "charaName": "Domoto"
+    },
+    {
+        "id": "0003cf38",
+        "charaName": "Senior A"
+    },
+    {
+        "id": "0003d104",
+        "charaName": "User B"
+    },
+    {
+        "id": "0003d106",
+        "charaName": "User A"
+    },
+    {
+        "id": "0003d127",
+        "charaName": "Yocchan"
+    },
+    {
+        "id": "0003d12f",
+        "charaName": "Female student A"
+    },
+    {
+        "id": "0003d153",
+        "charaName": "Nurse C"
+    },
+    {
+        "id": "0003d233",
+        "charaName": "Subordinate B"
+    },
+    {
+        "id": "0003d25a",
+        "charaName": "Pekeko"
+    },
+    {
+        "id": "0003d25c",
+        "charaName": "Female A"
+    },
+    {
+        "id": "0003d261",
+        "charaName": "Suwa Yufuko"
+    },
+    {
+        "id": "0003d269",
+        "charaName": "Maruo"
+    }
+]

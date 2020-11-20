@@ -1,0 +1,150 @@
+done with epoch 0 in 1 seconds, loss is 2.196383
+fold dev: got 7 out of 23 correct for 0.304348 accuracy
+fold test: got 14 out of 33 correct for 0.424242 accuracy
+done with epoch 1 in 0 seconds, loss is 2.078718
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 11 out of 33 correct for 0.333333 accuracy
+done with epoch 2 in 0 seconds, loss is 1.656880
+fold dev: got 4 out of 23 correct for 0.173913 accuracy
+fold test: got 10 out of 33 correct for 0.303030 accuracy
+done with epoch 3 in 0 seconds, loss is 0.991225
+fold dev: got 4 out of 23 correct for 0.173913 accuracy
+fold test: got 8 out of 33 correct for 0.242424 accuracy
+done with epoch 4 in 0 seconds, loss is 0.503688
+fold dev: got 4 out of 23 correct for 0.173913 accuracy
+fold test: got 9 out of 33 correct for 0.272727 accuracy
+done with epoch 5 in 0 seconds, loss is 0.370308
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 10 out of 33 correct for 0.303030 accuracy
+done with epoch 6 in 0 seconds, loss is 0.817414
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 9 out of 33 correct for 0.272727 accuracy
+done with epoch 7 in 0 seconds, loss is 0.505482
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 9 out of 33 correct for 0.272727 accuracy
+done with epoch 8 in 0 seconds, loss is 0.453942
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 9 out of 33 correct for 0.272727 accuracy
+done with epoch 9 in 0 seconds, loss is 0.341534
+fold dev: got 6 out of 23 correct for 0.260870 accuracy
+fold test: got 8 out of 33 correct for 0.242424 accuracy
+done with epoch 10 in 0 seconds, loss is 0.422817
+fold dev: got 6 out of 23 correct for 0.260870 accuracy
+fold test: got 7 out of 33 correct for 0.212121 accuracy
+done with epoch 11 in 0 seconds, loss is 0.241824
+fold dev: got 6 out of 23 correct for 0.260870 accuracy
+fold test: got 9 out of 33 correct for 0.272727 accuracy
+done with epoch 12 in 0 seconds, loss is 0.326116
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 9 out of 33 correct for 0.272727 accuracy
+done with epoch 13 in 0 seconds, loss is 0.319704
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 10 out of 33 correct for 0.303030 accuracy
+done with epoch 14 in 0 seconds, loss is 0.391705
+fold dev: got 3 out of 23 correct for 0.130435 accuracy
+fold test: got 10 out of 33 correct for 0.303030 accuracy
+done with epoch 15 in 0 seconds, loss is 0.212252
+fold dev: got 3 out of 23 correct for 0.130435 accuracy
+fold test: got 10 out of 33 correct for 0.303030 accuracy
+done with epoch 16 in 0 seconds, loss is 0.144788
+fold dev: got 3 out of 23 correct for 0.130435 accuracy
+fold test: got 10 out of 33 correct for 0.303030 accuracy
+done with epoch 17 in 0 seconds, loss is 0.258174
+fold dev: got 3 out of 23 correct for 0.130435 accuracy
+fold test: got 10 out of 33 correct for 0.303030 accuracy
+done with epoch 18 in 0 seconds, loss is 0.129160
+fold dev: got 3 out of 23 correct for 0.130435 accuracy
+fold test: got 10 out of 33 correct for 0.303030 accuracy
+done with epoch 19 in 0 seconds, loss is 0.299170
+fold dev: got 4 out of 23 correct for 0.173913 accuracy
+fold test: got 9 out of 33 correct for 0.272727 accuracy
+done with epoch 20 in 0 seconds, loss is 0.323278
+fold dev: got 4 out of 23 correct for 0.173913 accuracy
+fold test: got 8 out of 33 correct for 0.242424 accuracy
+done with epoch 21 in 0 seconds, loss is 0.175970
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 8 out of 33 correct for 0.242424 accuracy
+done with epoch 22 in 0 seconds, loss is 0.299605
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 9 out of 33 correct for 0.272727 accuracy
+done with epoch 23 in 0 seconds, loss is 0.267033
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 9 out of 33 correct for 0.272727 accuracy
+done with epoch 24 in 0 seconds, loss is 0.185634
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 9 out of 33 correct for 0.272727 accuracy
+done with epoch 25 in 0 seconds, loss is 0.160813
+fold dev: got 4 out of 23 correct for 0.173913 accuracy
+fold test: got 9 out of 33 correct for 0.272727 accuracy
+done with epoch 26 in 0 seconds, loss is 0.196597
+fold dev: got 4 out of 23 correct for 0.173913 accuracy
+fold test: got 9 out of 33 correct for 0.272727 accuracy
+done with epoch 27 in 0 seconds, loss is 0.284921
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 9 out of 33 correct for 0.272727 accuracy
+done with epoch 28 in 0 seconds, loss is 0.554436
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 9 out of 33 correct for 0.272727 accuracy
+done with epoch 29 in 0 seconds, loss is 0.139742
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 8 out of 33 correct for 0.242424 accuracy
+done with epoch 30 in 0 seconds, loss is 0.385328
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 8 out of 33 correct for 0.242424 accuracy
+done with epoch 31 in 0 seconds, loss is 0.318559
+fold dev: got 6 out of 23 correct for 0.260870 accuracy
+fold test: got 8 out of 33 correct for 0.242424 accuracy
+done with epoch 32 in 0 seconds, loss is 0.155898
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 8 out of 33 correct for 0.242424 accuracy
+done with epoch 33 in 0 seconds, loss is 0.135325
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 9 out of 33 correct for 0.272727 accuracy
+done with epoch 34 in 0 seconds, loss is 0.359026
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 10 out of 33 correct for 0.303030 accuracy
+done with epoch 35 in 0 seconds, loss is 0.265396
+fold dev: got 6 out of 23 correct for 0.260870 accuracy
+fold test: got 9 out of 33 correct for 0.272727 accuracy
+done with epoch 36 in 0 seconds, loss is 0.264685
+fold dev: got 6 out of 23 correct for 0.260870 accuracy
+fold test: got 9 out of 33 correct for 0.272727 accuracy
+done with epoch 37 in 0 seconds, loss is 0.148422
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 10 out of 33 correct for 0.303030 accuracy
+done with epoch 38 in 0 seconds, loss is 0.262492
+fold dev: got 5 out of 23 correct for 0.217391 accuracy
+fold test: got 11 out of 33 correct for 0.333333 accuracy
+done with epoch 39 in 0 seconds, loss is 0.114738
+fold dev: got 4 out of 23 correct for 0.173913 accuracy
+fold test: got 10 out of 33 correct for 0.303030 accuracy
+done with epoch 40 in 0 seconds, loss is 0.261259
+fold dev: got 4 out of 23 correct for 0.173913 accuracy
+fold test: got 10 out of 33 correct for 0.303030 accuracy
+done with epoch 41 in 0 seconds, loss is 0.201033
+fold dev: got 4 out of 23 correct for 0.173913 accuracy
+fold test: got 10 out of 33 correct for 0.303030 accuracy
+done with epoch 42 in 0 seconds, loss is 0.182089
+fold dev: got 4 out of 23 correct for 0.173913 accuracy
+fold test: got 10 out of 33 correct for 0.303030 accuracy
+done with epoch 43 in 0 seconds, loss is 0.197806
+fold dev: got 4 out of 23 correct for 0.173913 accuracy
+fold test: got 10 out of 33 correct for 0.303030 accuracy
+done with epoch 44 in 0 seconds, loss is 0.072624
+fold dev: got 4 out of 23 correct for 0.173913 accuracy
+fold test: got 10 out of 33 correct for 0.303030 accuracy
+done with epoch 45 in 0 seconds, loss is 0.051805
+fold dev: got 4 out of 23 correct for 0.173913 accuracy
+fold test: got 10 out of 33 correct for 0.303030 accuracy
+done with epoch 46 in 0 seconds, loss is 0.159673
+fold dev: got 4 out of 23 correct for 0.173913 accuracy
+fold test: got 10 out of 33 correct for 0.303030 accuracy
+done with epoch 47 in 0 seconds, loss is 0.109102
+fold dev: got 4 out of 23 correct for 0.173913 accuracy
+fold test: got 8 out of 33 correct for 0.242424 accuracy
+done with epoch 48 in 0 seconds, loss is 0.183211
+fold dev: got 4 out of 23 correct for 0.173913 accuracy
+fold test: got 9 out of 33 correct for 0.272727 accuracy
+done with epoch 49 in 0 seconds, loss is 0.243295
+fold dev: got 3 out of 23 correct for 0.130435 accuracy
+fold test: got 10 out of 33 correct for 0.303030 accuracy
